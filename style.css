@@ -1,0 +1,49 @@
+body {
+    color: rgb(178, 31, 136);
+    background-color: rgba(207, 216, 222, 0.562);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: rgb(178, 31, 136);
+    font-weight: bold;
+    display: block;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+    background-color: azure;
+    }
+
+h2, h3{
+    text-align: center;
+    background-color: pink;
+    margin: 0 19.5%;
+}
+
+h3 {
+    margin-top: 50px;
+}
+
+table {
+    margin: auto;
+    padding: 10px;
+    border-collapse: collapse;
+    background-color: rgb(213, 242, 242);
+    }
+
+td,th {
+    border: 1px solid black;
+    padding: 0.5rem;
+    text-align: left;
+    font-size: 25px;
+}
+
+footer {
+    color: rgb(129, 3, 93);
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(197, 166, 181);
+    padding: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
